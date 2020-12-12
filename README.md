@@ -1,3 +1,2 @@
-# Tableau_Projects
+# Tableau Projects
 
-Her i have created some Tableau Projects using Tableau desktop.  
